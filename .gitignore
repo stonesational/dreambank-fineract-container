@@ -1,0 +1,5 @@
+.idea
+dreambank-fineract-container.iml
+fineract-provider.war
+target
+tomcat.8080
